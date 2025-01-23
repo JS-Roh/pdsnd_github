@@ -17,6 +17,13 @@ This project is a Python-based analysis tool for exploring bikeshare data from t
 `washington.csv`
 These files contain data for bikeshare usage, including start and end times, trip durations, stations, and user details.
 
+### How to Use
+Run the script using Python 3:
+   ```bash
+-   python bikeshare.py
+-   Follow the prompts to select a city, month, and day for analysis.
+-   View calculated statistics or choose to display raw data.
+-   Restart the script to explore different filters.
 ### Credits
 This project was developed as part of a Udacity course on programming for data analysis. The following resources and references were instrumental in the development of this project:
 
