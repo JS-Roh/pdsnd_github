@@ -24,7 +24,7 @@ def get_filters():
         (str) month - name of the month to filter by, or "all" to apply no month filter
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
-    print("Hello! Let's explore some US bikeshare data!")
+    print("Let's explore some US bikeshare data!")
     city = ""
     city_names = list(CITY_DATA.keys())
     while city not in city_names:
