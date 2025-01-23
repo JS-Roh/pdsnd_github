@@ -20,10 +20,8 @@ These files contain data for bikeshare usage, including start and end times, tri
 ### How to Use
 Run the script using Python 3:
    ```bash
--   python bikeshare.py
--   Follow the prompts to select a city, month, and day for analysis.
--   View calculated statistics or choose to display raw data.
--   Restart the script to explore different filters.
+ python bikeshare.py
+
 ### Credits
 This project was developed as part of a Udacity course on programming for data analysis. The following resources and references were instrumental in the development of this project:
 
@@ -31,5 +29,4 @@ This project was developed as part of a Udacity course on programming for data a
 [Pandas Documentation](https://pandas.pydata.org/)
 [NumPy Documentation](https://numpy.org/)
 
-Special thanks to the open-source community for providing the tools and resources necessary for this analysis.
 
